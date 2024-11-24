@@ -19,6 +19,7 @@ LLaMA-Customer-Support-Assistant/
 ├── fine_tuning.ipynb          # Training notebook
 ├── test_model.ipynb           # Testing notebook
 ├── customer_support_model/    # Model outputs
+├── dataset/                   # CSV dataset
 └── README.md
 ```
 
